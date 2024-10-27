@@ -8,5 +8,6 @@ public class demo {
 //2. backend --> Java [core, advance, hibernate, spring, spring boot, microservices]
 //3. DevOps --> Linux[ commands], Docker, kubernetes, maven, git, cloud[AWS, GCP, Azure]
 
+//        persistant
     }
 }
