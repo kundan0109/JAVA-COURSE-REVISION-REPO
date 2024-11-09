@@ -1,4 +1,4 @@
-package lecture43;
+package lecture42;
 
 public class Inheritance02 {
     public static void main(String[] args) {
