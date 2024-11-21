@@ -10,7 +10,7 @@ public class DeepCopy {
         @AllArgsConstructor
         @ToString
         @NoArgsConstructor
-        class Address implements Cloneable{
+        class Address implements Cloneable {
             int flatNo;
             String city;
             String Country;
@@ -46,7 +46,7 @@ public class DeepCopy {
 
 //        Employee employee1 = new Employee(2, "nayan", 9898989, address);
         Employee employee2 = (Employee) employee.clone();
-employee2.address.Country = "Singapour";
+        employee2.address.Country = "Singapour";
         System.out.println(employee2);
 
         System.out.println(
